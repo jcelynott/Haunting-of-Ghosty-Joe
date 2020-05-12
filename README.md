@@ -7,5 +7,5 @@ Play it in your browser (or download it for your desktop) over here: https://cry
 ### Language and Framework
 I built The Haunting of Ghosty Joe using C# within the framework of the Unity Engine
 
-### A Note to the MLH Code Reviewers
-As you can see, there's quite a few scripts in the game, but some of them are small files made to handle very specific details of the game. Examples of longer files include the ButtonChecker and its child classes, as well as the DangerSpawner
+### A Note to the MLH Fellowship Code Reviewers
+There are quite a few scripts in the game, but some of them are small files made to handle very specific details of the game. Examples of longer files include the ButtonChecker, its child classes, and the DangerSpawner.
